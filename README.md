@@ -1,4 +1,3 @@
-# Single-cell multiome analysis scripts
 
 This repository contains analysis and figure-generation scripts
 associated with our study of stem cell-derived pancreatic beta cell
